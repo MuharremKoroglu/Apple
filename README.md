@@ -23,7 +23,7 @@ This app shows how developers can add a gif from the ntwork to flutter app. Furt
 
 <h2> Images <img src = "https://media2.giphy.com/media/psneItdLMpWy36ejfA/source.gif" width = 62px> </h2>
   <div class="row">
-<img width ='2500px' src 
+<img width ='250px' src 
      ='https://raw.githubusercontent.com/MuharremKoroglu/Apple/main/apple1.png'>
 <img width ='250px' src 
      ='https://raw.githubusercontent.com/MuharremKoroglu/Apple/main/apple2.png'>
