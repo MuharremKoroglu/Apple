@@ -3,7 +3,7 @@
 #### Thank You for taking the time to view my repository 
 
 ## <h2> About This App <img src = "https://c.tenor.com/JsoERRQcZqYAAAAi/thumbs-up-joypixels.gif" width = 32px></h2>
-This app shows how developers can add a gif from the ntwork to flutter app. Furthermore, developers can see how to create an icon for their flutter app.  
+This app shows how developers can add a gif from the network to flutter app. Furthermore, developers can see how to create an icon for their flutter app.  
 
 <h2> Used Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 42px> </h2>
 <div class="row">
